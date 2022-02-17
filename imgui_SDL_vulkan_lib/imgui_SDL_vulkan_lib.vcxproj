@@ -133,7 +133,7 @@
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
       <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
-      <AdditionalIncludeDirectories>../../SDL/include;../;../../Vulkan/1.2.170.0/Include/</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../../SDL/include;../;../../Vulkan/1.2.198.1/Include/</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>
@@ -151,7 +151,7 @@
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
       <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
-      <AdditionalIncludeDirectories>../../SDL/include;../;../../Vulkan/1.2.170.0/Include/</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../../SDL/include;../;../../Vulkan/1.2.198.1/Include/</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>
